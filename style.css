@@ -1,0 +1,14 @@
+body{
+	background-color:#DAC9C3; 
+}
+.etopizdets{
+	width:50px;
+	height:50px;
+	background-image: linear-gradient(to left,#E070A8,#85283B)
+}
+.yaneznauchtopisat{
+	width:50px;
+	height:50px;
+	background-image: linear-gradient(to left,#B3C768,#F0EFED)
+}
+}
